@@ -12,7 +12,7 @@
 | 컴퓨터 | 파일 |
 |---|---|
 | 맥 (Apple 실리콘·Intel 모두) | `PicoryBlogMate_<버전>_darwin_universal.dmg` |
-| 윈도우 10/11 (64비트) | `PicoryBlogMate_<버전>_windows_x86_64-setup.exe` |
+| 윈도우 10/11 (64비트) | `PicoryBlogMate_<버전>_windows_x64-setup.exe` |
 
 한 번 설치하면, 새 버전이 나왔을 때 앱 아래줄에 **[새 버전 업데이트]** 버튼이 떠서 누르면 알아서 받아 설치합니다.
 
